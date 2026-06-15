@@ -2,7 +2,7 @@
 
 > Estrutura, *templates*, exemplificação da geração automatizada e documentação visual do **Semantic Data Dictionary (SDD)** aplicado ao domínio da **Terapia Cognitivo-Comportamental (TCC)**.
 
-![Status](https://img.shields.io/badge/status-desenvolvido-)
+![Status](https://img.shields.io/badge/status-desenvolvido-green)
 ![Ano](https://img.shields.io/badge/ano-2026-blue)
 ![Curso](https://img.shields.io/badge/curso-Engenharia%20de%20Software-informational)
 ![Licença](https://img.shields.io/badge/uso-acadêmico-lightgrey)

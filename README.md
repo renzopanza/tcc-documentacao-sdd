@@ -42,3 +42,7 @@ O Infosheet é o documento de configuração estrutural do SDD, pois ele reúne 
 Para que seja possível a execução do Script "sdd2rdf.py", responsável pela criação do arquivo .ttl, precisamos de ter em nosso projeto um arquivo de configuração inicial. Este arquivo é criado de maneira automática no momento em que o projeto é criado no sistema Homogenise, ele vem com o nome padronizado "config_{nome_do_projeto}.ini". O arquivo de config.ini possui informações imprescindíveis para a execução do script, tendo sua estrutura desta maneira:
 
 ![Especificação do Arquivo de configuração](https://github.com/renzopanza/tcc-documentacao-sdd/blob/v1.0-tcc/Especifica%C3%A7%C3%B5es/especificacao_config_ini.png)
+
+
+-> Passo a passo para execução da ferramenta:
+![Passo a passo para a execução da HOMOGENISE]()

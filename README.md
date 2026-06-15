@@ -45,4 +45,4 @@ Para que seja possível a execução do Script "sdd2rdf.py", responsável pela c
 
 
 -> Passo a passo para execução da ferramenta:
-![Passo a passo para a execução da HOMOGENISE]()
+![Passo a passo para a execução da HOMOGENISE](https://github.com/renzopanza/tcc-documentacao-sdd/blob/v1.0-tcc/Passo%20a%20passo/fluxograma_homogenise.png)
